@@ -1093,6 +1093,22 @@ https://avancabrasilcod.akamaized.net/avancabrasil/avancabrasil/playlist.m3u8
 https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | The Market Guide TV" tvg-name="BR | The Market Guide TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2413/brand.gif?itok=kY7S_V8T" group-title="BRASIL", 664 | The Market Guide TV || BRASIL
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | ZoyTV Bolivia" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Bolivia HD
+https://tiny.cc/zoytvplus
+#EXTINF:-1 tvg-id="BO | Turcas" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Turcas HD
+https://tiny.cc/zoytvturcas
+#EXTINF:-1 tvg-id="BO | Music" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Music HD
+https://tiny.cc/zoytvmusic
+#EXTINF:-1 tvg-id="BO | Sports 1" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Sports 1 HD
+https://tiny.cc/zoytvsports1
+#EXTINF:-1 tvg-id="BO | Sports 2" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Sports 2 HD
+https://tiny.cc/zoytvsports2
+#EXTINF:-1 tvg-id="BO | Sports 3" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Sports 3 HD
+https://tiny.cc/zoytvsports3
+#EXTINF:-1 tvg-id="BO | Sports 4" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Sports 4 HD
+https://tiny.cc/zoytvsports4
+#EXTINF:-1 tvg-id="BO | Sports 5" tvg-name="ZoyTV Bolivia" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="BOLIVIA",ZoyTV Sports 5 HD
+https://tiny.cc/zoytvsports5
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 665 | Unitel || BOLIVIA
 http://181.78.78.105:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", 666 | RTP || BOLIVIA
